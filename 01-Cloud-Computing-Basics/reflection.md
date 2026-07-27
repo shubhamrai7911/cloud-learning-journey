@@ -31,6 +31,3 @@ Servers can be:
 
 ---
 
-## Confidence
-
-8/10
