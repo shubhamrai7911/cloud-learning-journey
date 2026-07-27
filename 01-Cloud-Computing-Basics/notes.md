@@ -83,3 +83,47 @@ Response
 ↓
 
 Client receives data
+
+
+
+# Quick Notes
+
+Client
+
+↓
+
+Network
+
+↓
+
+Server
+
+↓
+
+Response
+
+---
+
+Cloud Computing
+
+↓
+
+On-demand
+
+↓
+
+Pay-as-you-go
+
+↓
+
+Scalability
+
+---
+
+Data Center
+
+- Servers
+- Cooling
+- Backup power
+- Networking
+- Security
