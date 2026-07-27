@@ -1,55 +1,49 @@
-# Questions
+## Question 1
 
-## Q1. Why was cloud computing invented?
+### Mentor's Question
 
-Cloud computing was invented because companies spent a lot of money buying servers, building data centers, maintaining infrastructure, and estimating future demand before even launching their applications.
+Why was cloud computing invented?
 
----
+### My Answer
 
-## Q2. What is a network?
+Companies had to buy servers, build data centers, spend a lot of money, and estimate future traffic before launching their applications.
 
-A network is a group of connected devices that communicate and share information.
+### Mentor's Feedback
 
----
+✅ Good understanding.
 
-## Q3. What is a client?
+You identified the major business problems.
 
-A client is a device or application that requests a service from a server.
+Improve by mentioning that cloud computing allows companies to rent IT resources on demand instead of owning infrastructure.
 
----
+### Final Understanding
 
-## Q4. What is a server?
-
-A server is a computer that provides services or resources to clients.
+Cloud computing was invented because building and maintaining infrastructure was expensive, slow, and difficult to scale. Cloud providers allow companies to rent IT resources over the internet instead of owning them.
 
 ---
 
-## Q5. Explain client-server communication.
+## Question 2
 
-The client sends a request through the network.
+### Mentor's Question
 
-The server receives the request, processes it, and sends a response back through the network.
+What is a network?
 
-Example:
+### My Answer
 
-User
+A network is two or more devices connected together that communicate with each other.
 
-↓
+### Mentor's Feedback
 
-Browser
+✅ Correct.
 
-↓
+Remember that communication is the key idea, not just connection.
 
-Internet
+### Final Understanding
 
-↓
+A network is a group of connected devices that communicate and exchange information.
 
-YouTube Server
+---
 
-↓
+## Question 3
 
-Video
-
-↓
-
-Browser
+...
